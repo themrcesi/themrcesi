@@ -5,6 +5,9 @@
 - 🥋 I´m a passionate lover of sports, especially Judo.
 - ⚡ Fun fact: I love listening to music and discover new songs.
 
+### Spotify Playing 🎧
+[<img src="https://novatorem.themrcesi.vercel.app/" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/b4e44802f2ff4783af1d706c665740e3)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
