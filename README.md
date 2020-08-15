@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love listening to music and discover new songs.
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.themrcesi.vercel.app/" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/b4e44802f2ff4783af1d706c665740e3)
+[<img src="https://novatorem.themrcesi.vercel.app/api/spotify-playing" alt="themrcesi Spotify Playing" width="350" />](https://open.spotify.com/user/b4e44802f2ff4783af1d706c665740e3)
 
 ### Connect with me:
 
