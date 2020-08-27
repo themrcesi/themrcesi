@@ -3,7 +3,7 @@
 ## I'm a Software Engineer graduate at University of Oviedo!
 - 👨‍🎓 I’m currently studying a [Master´s degree in Artificial Intelligence][master] at Universidad Politécnica de Madrid.
 - 🥋 I´m a passionate lover of sports, especially Judo.
-- ⚡ Fun fact: I love listening to music and discover new songs.
+- ⚡ Fun fact: I love listening to music and discovering new songs.
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem.themrcesi.vercel.app/api/spotify-playing" alt="themrcesi Spotify Playing" width="350" />](https://open.spotify.com/user/themrcesi?si=FNwNUXAtThWp7FADgnccIA)
