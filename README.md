@@ -37,8 +37,6 @@
 
 ---
 
-<img align="left" alt="themrcesi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=themrcesi&show_icons=true&hide_border=true" />
-
 [master]: http://www.dia.fi.upm.es/masteria/
 [website]: https://themrcesi.github.io
 [instagram]: https://www.instagram.com/cgcjc
