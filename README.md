@@ -1,7 +1,8 @@
 ### Hi there, I'm César - aka [themrcesi][website] 👋
 
 ## I'm a Software Engineer graduate at University of Oviedo!
-- 👨‍🎓 I’m currently studying a [Master´s degree in Artificial Intelligence][master] at Universidad Politécnica de Madrid.
+- 📊 I'm a Data Scientist at Gauss & Neumann.
+- 👨‍🎓 I'm currently studying a PhD in Information and Comunication Technologies at Universidad de Granada and I've a Master´s degree in Artificial Intelligence from Universidad Politécnica de Madrid.
 - 🥋 I´m a passionate lover of sports, especially Judo.
 - ⚡ Fun fact: I love listening to music and discovering new songs.
 
